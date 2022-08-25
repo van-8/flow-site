@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "Deep Tissue Massage"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Ok, not really."
         icon: fab fa-markdown
 
   portfolio:
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Joanna WONG"
         role: "Principal"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
