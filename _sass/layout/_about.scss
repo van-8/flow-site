@@ -1,0 +1,10 @@
+// Styling for the services section
+.about-heading {
+  margin: 15px 0;
+  text-transform: none;
+  background-image: url("#{$about-image}");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
