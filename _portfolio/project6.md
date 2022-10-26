@@ -9,10 +9,4 @@ caption:
   subtitle: Film Production | Photography
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+Every few years, Audi gathers together a group of its brightest thinkers to do nothing for one month but travel the world, meet leading intellectuals in various specialities, and imagine the future of human kind. For the Journey in 2014, Flow Creative was brought in to capture the incredible energy of these incredible minds on film and photo. This cinematic portrait was shared with top Audi leadership at their headquarters in Ingolstadt, Germany.
