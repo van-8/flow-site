@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Creating the beautiful & memorable
-    text: Our services include creative direction, photos & videos, social media+press, and interaction design+engineering. 
+    #text: Our services include creative direction, photos & videos, social media+press, and interaction design+engineering. 
     #button: Learn More
     #buttonlink: "#services"
 
