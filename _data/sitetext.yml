@@ -12,14 +12,14 @@
 en: &DEFAULT_EN
   header:
     title: Creating the beautiful & memorable
-    text: Flow 
+    text: Our services include creative direction, photos & videos, social media+press, and interaction design+engineering. 
     #button: Learn More
     #buttonlink: "#services"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "OUR SECRET"
+    #text: "our story"
+    body: "We love to laugh. Play. Sing. We are endlessly curious about life and its mysteries. We're fascinated with how things are and what it could be. We are brutally honest. We are super nerdy and super proud of it. We obsess over our work because it is our life's work. We ask, we dance, we leap, we fall, we rise, we smile, and let sparkling waters of imagination spring forth and flow creative."
     section: about
     
   services:
