@@ -13,27 +13,33 @@ en: &DEFAULT_EN
   header:
     title: Creating the beautiful & memorable
     text: Flow 
-    button: Learn More
-    buttonlink: "#services"
+    #button: Learn More
+    #buttonlink: "#services"
 
+  about:
+    title: "About Us"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
+    
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    #text: "Lorem ipsum"
     section: services
     list:
-      - title: "Film Production"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Photo & Video"
+        desc: "Cinematic imagery and story designed to inspire, inform, and empower."
+        icon: fa-solid fa-film #find more at https://fontawesome.com/icons
       - title: "Social Media"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "Deep Tissue Massage"
-        desc: "Ok, not really."
-        icon: fab fa-markdown
+        desc: "An authentic voice for building your community."
+        icon: fa-solid fa-thumbs-up
+      - title: "Cross-cultural Creative Direction"
+        desc: "Explore cultural subtleties and localized opportunities."
+        icon: fa-regular fa-globe
 
   portfolio:
-    title: "CLIENTS"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "PORTFOLIO"
+    # text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
@@ -68,11 +74,6 @@ en: &DEFAULT_EN
         align: right
     end: "The Future"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   clients:
     section: clients
