@@ -24,18 +24,18 @@ en: &DEFAULT_EN
     
   services:
     title: "Services"
-    #text: "Lorem ipsum"
+    text: "Creative direction, photos & videos, social media + press, and interaction design."
     section: services
-    list:
-      - title: "Photo & Video"
-        desc: "Cinematic imagery and story designed to inspire, inform, and empower."
-        icon: fa-solid fa-film #find more at https://fontawesome.com/icons
-      - title: "Social Media"
-        desc: "An authentic voice for building your community."
-        icon: fa-solid fa-thumbs-up
-      - title: "Cross-cultural Creative Direction"
-        desc: "Explore cultural subtleties and localized opportunities."
-        icon: fa-regular fa-globe
+#    list:
+#      - title: "Photo & Video"
+#        desc: "Cinematic imagery and story designed to inspire, inform, and empower."
+#        icon: fa-solid fa-film #find more at https://fontawesome.com/icons
+#      - title: "Social Media"
+#        desc: "An authentic voice for building your community."
+#        icon: fa-solid fa-thumbs-up
+#      - title: "Cross-cultural Creative Direction"
+#        desc: "Explore cultural subtleties and localized opportunities."
+#        icon: fa-regular fa-globe
 
   portfolio:
     title: "PORTFOLIO"
