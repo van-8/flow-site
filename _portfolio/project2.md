@@ -1,18 +1,12 @@
 ---
 title: Destination Canada
-subtitle: Chinese celebrity exposure
+# subtitle: Chinese celebrity exposure
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
   title: Destination Canada
-  subtitle: Film Production | Celebrity Management | Creative Direction
+  subtitle: Creative Direction | Celebrity Management | Film | Photo | Socials
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+Since 2012, our work with Canada’s national, provincial, and local tourism boards involve multi-year, multi-faceted campaigns producing videos, photos, and social engagement. We originated and led collaborations with wonderful celebrities like QU Wanting, Nana OUYANG, Miya, and Godfrey GAO.
