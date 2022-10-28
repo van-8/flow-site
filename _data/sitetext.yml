@@ -131,8 +131,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "New ab"
-    text: "Lorem ipsum or call 123456789"
+    title: "OUR SECRET"
+    text: "We love to laugh. Play. Sing. We are endlessly curious about life and its mysteries. We are brutally honest. Nerdy and proud of it. We obsess over our work because it is our life’s work. We ask, we dance, we leap, we fall, we rise, we smile, and let sparkling waters of imagination spring forth and flow creative."
     section: contact
 #    name: "Name*"
 #    name-validation: "Please enter your name."
