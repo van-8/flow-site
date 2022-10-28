@@ -1,9 +1,9 @@
 #Color Customization
-#highlight: "#54bfff"
+highlight: "#35a8ca"
 #white: "#FF0000"
 #black: "#000"
 
 #Image Customization
-header-image: "../img/butterfly-4.jpg"
+header-image: "../img/butterfly-5.jpg"
 contact-image: "../img/map-image.png"
 about-image: "../img/about-bg.jpg"
