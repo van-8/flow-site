@@ -5,7 +5,7 @@ image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Taiji Zen
+  title: Taiji Zen / Alibaba
   subtitle: Creative Direction | Film | Photo
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---

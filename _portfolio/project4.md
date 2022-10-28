@@ -1,18 +1,12 @@
 ---
-title: Alibaba
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Peru Travel
+#subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Alibaba
-  subtitle: Creative Direction | Film
+  title: Perú Travel / Visit México
+  subtitle: Creative Direction | Film | Photo
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
+In collaboration with Peru Travel, Visit México, Los Cabos Tourism Board, and Explora Hotels, we arranged a Latin American adventure for Chinese celebrity Layla 许婧 to entice her 5 million followers with the regions endless variety and irresistible charm. México opiated the senses with her unbelievably luxurious all-inclusive resorts, mouth-watering cuisine, and joyful exuberance of Día de los Muertos celebrations. While Perú mesmerized the soul at the awe-inspiring peaks of Machu Picchu down to the incalculable richness of the Amazon Rainforest explored from Iquitos.
