@@ -4,8 +4,9 @@ section#contact {
   background-image: url("#{$contact-image}");
   background-repeat: no-repeat;
   background-position: center;
+  padding-top: 150px;
+  padding-bottom: 100px;
   .section-heading {
     color: $white;
   }
-
 }

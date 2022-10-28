@@ -42,6 +42,7 @@ h6 {
     font-style: italic;
     margin-bottom: 75px;
     text-transform: none;
+    color: $gray-100;
     @include serif-font;
   }
 }
