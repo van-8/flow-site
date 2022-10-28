@@ -130,10 +130,10 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-#  contact:
-#    title: "Contact Us"
-#    text: "Lorem ipsum or call 123456789"
-#    section: contact
+  contact:
+    title: "New ab"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
 #    name: "Name*"
 #    name-validation: "Please enter your name."
 #    email: "Email*"
