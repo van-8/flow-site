@@ -101,7 +101,7 @@ en: &DEFAULT_EN
     people:
       - name: "Van YANG"
         role: "Principal"
-        image: assets/img/team/van.jpg
+        image: assets/img/team/van2.jpg
         social:
        #   - url: https://twitter.com
        #     icon: fab fa-twitter
@@ -111,7 +111,7 @@ en: &DEFAULT_EN
        #     icon: fab fa-linkedin-in
       - name: "Joanna WONG"
         role: "Principal"
-        image: assets/img/team/joanna.jpg
+        image: assets/img/team/jo2.jpg
        # social:
         #  - url: https://twitter.com
         #    icon: fab fa-twitter
@@ -120,11 +120,21 @@ en: &DEFAULT_EN
         #  - url: https://linkedin.com
         #    icon: fab fa-linkedin-in
       - name: "Alfred HSING"
-        role: "Action Director, Actor"
-        image: assets/img/team/alfred.jpg
-        social:
-          - url: https://www.instagram.com/alfredrocks/
-            icon: fab fa-instagram
+        role: "Action Director, Actor, Stuntman"
+        image: assets/img/team/alfred2.jpg
+        #social:
+        #  - url: https://www.instagram.com/alfredrocks/
+        #    icon: fab fa-instagram
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          #- url: https://linkedin.com
+          #  icon: fab fa-linkedin-in
+      - name: "BRAT"
+        role: "Choreographer, Dancer"
+        image: assets/img/team/alfred2.jpg
+        #social:
+        #  - url: https://www.instagram.com/dhqbrat/
+        #    icon: fab fa-instagram
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
           #- url: https://linkedin.com
