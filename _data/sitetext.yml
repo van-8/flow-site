@@ -131,7 +131,7 @@ en: &DEFAULT_EN
           #  icon: fab fa-linkedin-in
       - name: "BRAT"
         role: "Choreographer, Dancer"
-        image: assets/img/team/alfred2.jpg
+        image: assets/img/team/brat.jpg
         #social:
         #  - url: https://www.instagram.com/dhqbrat/
         #    icon: fab fa-instagram
