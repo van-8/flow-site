@@ -1,8 +1,8 @@
 ---
 title: lululemon
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+#subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+#alt: Shirts on a hanger
 
 caption:
   title: lululemon

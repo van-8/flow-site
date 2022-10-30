@@ -1,8 +1,8 @@
 ---
 title: Lenovo
-subtitle: Lorem ipsum dolor sit amet consectetur.
+#subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/05-full.jpg
-alt: 
+#alt: 
 
 caption:
   title: Lenovo

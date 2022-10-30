@@ -1,5 +1,5 @@
 ---
-title: Peru Travel
+title: Perú Travel / Visit México
 #subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/04-full.jpg
 alt: 
