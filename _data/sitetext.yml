@@ -156,7 +156,7 @@ en: &DEFAULT_EN
 #    submit: "Send Message"
 
   values:
-    title: "OUR VALUES"
+    title: "OK VV"
     text: "These are our values."
 
   footer:
