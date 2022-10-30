@@ -2,6 +2,7 @@
 {% if site.locale and site.locale != "" and site.locale != nil %}
 <section class="page-section" id="{{ site.data.sitetext[site.locale].values.section | default: " values" }}">
   <div class="container">
+    <img class="feature-img" src="{{ 'assets/img/ali.jpg' | relative_url }}" />
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">
@@ -10,6 +11,7 @@
       </div>
     </div>
 
+  </div>
   </div>
 </section>
 {% endif %}
