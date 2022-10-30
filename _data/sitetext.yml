@@ -155,6 +155,10 @@ en: &DEFAULT_EN
 #    subject: "Web Contact Submission"
 #    submit: "Send Message"
 
+  values:
+    title: "OUR VALUES"
+    text: "These are our values."
+
   footer:
     legal: "Privacy Policy"
 #    social:

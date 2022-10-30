@@ -32,6 +32,7 @@ $black: {
 $header-image: "{{ site.data.style.header-image }}";
 $contact-image: "{{ site.data.style.contact-image }}";
 $about-image: "{{ site.data.style.about-image }}";
+$values-image: "{{ site.data.style.values-image }}";
 
 // Global CSS
 @import "base/page.scss";
@@ -49,4 +50,5 @@ $about-image: "{{ site.data.style.about-image }}";
 @import "layout/timeline.scss";
 @import "layout/team.scss";
 @import "layout/contact.scss";
+@import "layout/values.scss";
 @import "layout/footer.scss";

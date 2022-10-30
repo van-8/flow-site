@@ -1,13 +1,13 @@
 ---
 title: Taiji Zen
 #subtitle: Bringing Jet Li's vision to life
-image: assets/img/portfolio/03-full.png
+image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
   title: Taiji Zen / Alibaba
   subtitle: Creative Direction | Film | Photo
-  thumbnail: assets/img/portfolio/03-thumbnail.png
+  thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 Created by Alibaba founder Jack Ma and actor/philanthropist Jet Li, Taiji Zen is a brand bringing Chinese culture and martial arts into the modern era. Flow Creative was brought in for brand strategy, creative direction, photography, and production of 67 videos.
 

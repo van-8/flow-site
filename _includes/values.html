@@ -1,0 +1,16 @@
+<!-- Values -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="page-section" id="{{ site.data.sitetext[site.locale].values.section | default: " values" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          {{ site.data.sitetext[site.locale].values.title | markdownify | default: Our Values }}</h2>
+        <h3 class="section-subheading">{{ site.data.sitetext[site.locale].values.text | default: "" }}</h3>
+      </div>
+    </div>
+
+  </div>
+</section>
+{% endif %}
+<!-- End Values -->

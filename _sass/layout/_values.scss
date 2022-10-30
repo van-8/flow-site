@@ -1,0 +1,15 @@
+// Styling for the values section
+section#values {
+  background-color: white;
+  background-image: url("#{$contact-image}");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 350px;
+  padding-bottom: 200px;
+  .section-heading {
+    color: $white;
+  }
+  .section-subheading {
+    color: $white;
+  }
+}
